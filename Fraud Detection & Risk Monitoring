@@ -1,0 +1,39 @@
+# Fraud Detection & Risk Monitoring Dashboard
+
+## Overview
+This project analyzes financial transaction data to detect fraudulent activity,
+monitor risk indicators, and support data-driven decision-making for fraud prevention.
+
+## Business Problem
+Financial institutions need visibility into fraud trends across payment channels,
+locations, and time periods to reduce financial losses.
+
+## Data Overview
+- Transaction amount
+- Payment channel
+- Location
+- Fraud indicator
+- Time (Year / Quarter)
+
+## Tools Used
+- Power BI
+- DAX
+- Excel
+
+## Analysis Performed
+- Fraud rate calculation
+- Channel-level fraud exposure analysis
+- Geographic fraud distribution
+- Time-based fraud trends
+
+## Key Insights
+- Fraud represents a small percentage of total transactions but a disproportionate financial impact
+- Certain payment channels show higher fraud concentration
+- Fraud activity is clustered in specific regions
+
+## Business Value
+This dashboard enables risk teams to prioritize controls,
+improve fraud monitoring, and reduce financial exposure.
+
+## Dashboard Preview
+![Fraud Dashboard](dashboard/fraud.png)
